@@ -1,0 +1,12 @@
+body{
+	background:url("def.jpg");
+	
+}
+.navbar{
+	border-radius: 0;
+}
+
+.navbar-brand{
+	font-family: 'Satisfy', cursive;
+}
+
